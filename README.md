@@ -3,7 +3,7 @@
 # Warsztat BookAPI
 
 Przedmiotem warszatu jest wykonanie jednego większego programu, który pozwoli na przyswojenie praktycznej wiedzy,
-Zdobytej po przerobieniu modułu "Spring".
+zdobytej po przerobieniu modułu "Spring".
 
 ## Co zostało wykorzystane w warszatacie ?
 
